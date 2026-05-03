@@ -76,6 +76,7 @@ main img {
     color: var(--text);
     text-decoration: none;
     transition: all 0.15s ease-out;
+    margin: 10px;
 }
 .contatti a:hover {
     color: var(--accent);
