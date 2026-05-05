@@ -58,7 +58,7 @@ main >div>div {
     justify-content: center;
     align-items: center;
     font-size: 20px;
-    margin: 50px;
+    margin: 80px 50px;
 }
 main img {
     width:100%;
